@@ -1,4 +1,4 @@
-<h1 align="center">Hi there👋, I'm Shriya!/h1>
+<h1 align="center">Hi there👋, I'm Shriya!</h1>
 <h3 align="center">A grad student at University of California - Santa Cruz majoring in Artificial Intelligence</h3>
 
 - 🔭 I’m currently working on **MultilingualNL2SQL**
