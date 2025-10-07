@@ -15,4 +15,5 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Shriya613&theme=catppuccin_mocha&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shriya613&theme=catppuccin_mocha&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+[![An image of @shriya613's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shriya613)](https://holopin.io/@shriya613)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
