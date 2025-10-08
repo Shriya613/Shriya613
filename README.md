@@ -2,7 +2,7 @@
 <h3 align="center">A grad student at University of California - Santa Cruz majoring in Artificial Intelligence</h3>
 
 # 💫 About Me:
-🔭 I’m currently working on a multilingual NL to SQL system<br>👯 I’m looking to collaborate on leveraging LLMs for healthcare and educations.<br>🤝 I’m looking for help with RL algorithms and works on autonomous systems<br>🌱 I’m currently learning about Agentic AI systems.<br>⚡ Fun fact : I laugh at inappropriate times!<br>✉️ Reach me at : sy4@ucsc.edu
+🔭 I’m currently working on a multilingual NL to SQL system<br>👯 I’m looking to collaborate on leveraging LLMs for healthcare and education.<br>🤝 I’m looking for help with RL algorithms and works on autonomous systems<br>🌱 I’m currently learning about Agentic AI systems.<br>⚡ Fun fact : I laugh at inappropriate times!<br>✉️ Reach me at : sy4@ucsc.edu
 
 
 ## 🌐 Socials:
