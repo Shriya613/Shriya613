@@ -1,8 +1,8 @@
 <h1 align="center">Hi there👋, I'm Shriya!</h1>
-<h3 align="center">A grad student at University of California - Santa Cruz majoring in Artificial Intelligence</h3>
+<h3 align="center">A grad student at University of California, Santa Cruz majoring in Artificial Intelligence</h3>
 
 # 💫 About Me:
-🔭 I’m currently working on a multilingual NL to SQL system<br>👯 I’m looking to collaborate on leveraging LLMs for healthcare and education.<br>🤝 I’m looking for help with RL algorithms and works on autonomous systems<br>🌱 I’m currently learning about Agentic AI systems.<br>⚡ Fun fact : I laugh at inappropriate times!<br>✉️ Reach me at : shriyasravani07@gmail.com
+🔭 I’m currently working on Agentic AI systems. <br>👯 I’m looking to collaborate on leveraging LLMs for healthcare and education.<br>⚡ Fun fact : I laugh at inappropriate times!<br>✉️ Reach me at : shriyasravani07@gmail.com
 
 
 ## 🌐 Socials:
