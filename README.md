@@ -1,5 +1,5 @@
 <h1 align="center">Hey there, I'm Shriya!👋</h1>
-<h3 align="center">A graduate of MS in AI from UC Santa Cruz, Silicon Valley </h3>
+<h3 align="center">A MS grad in AI from UC Santa Cruz, Silicon Valley </h3>
 
 # 💫 About Me:
 🔭 I’m currently working on Agentic AI systems. <br>👯 I’m looking to collaborate on leveraging these systems for healthcare and education.<br>⚡ Fun fact : I laugh at inappropriate times!<br>✉️ Reach me at : shriyasravani07@gmail.com
