@@ -1,9 +1,5 @@
-<h1 align="center">Hey, I'm Shriya 👋</h1>
+<h1 align="center">Hey, I'm Shriya Sravani 👋</h1>
 <h3 align="center">AI Engineer • NLP Enthusiast</h3>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="180"/>
-</p>
 
 ---
 
@@ -11,22 +7,25 @@
 
 I'm an AI Engineer passionate about building systems that go beyond research prototypes and actually work in production.
 
-My work lives at the intersection of:
+I care about building systems that are:
+
+• Honest about failure modes  
+• Thoughtful about evaluation  
+• Designed for real users  
+• Scalable beyond prototypes
+
+Currently I'm working on:
 
 • Agentic AI systems  
-• Multilingual LLM pipelines  
 • AI evaluation & alignment  
-• Reinforcement learning simulations  
-• Cloud-based ML infrastructure  
+• bringing my project ideas to life (stay tuned!)  
 
 I enjoy translating complex research ideas into clean, scalable, and user-friendly systems.
 
-When I'm not coding, I'm usually powered by **coffee ☕ or matcha 🍵**, reorganizing experiments, or debugging something that worked five minutes ago.
+When I'm not debugging something that was working 2 minutes ago, I'm learning a new dance choreo, catching up with the latest series or out touching grass.
 
 📬 Reach me: **shriyasravani07@gmail.com**
 <br> Call me: **+1 (408) 413 6948**, **+91 9920756140** </br>
-
-
 
 ---
 
@@ -34,8 +33,6 @@ When I'm not coding, I'm usually powered by **coffee ☕ or matcha 🍵**, reorg
 
 - Multi-agent reasoning and orchestration  
 - LLM evaluation and reliability  
-- Building multilingual AI systems  
-- RL-based simulation environments  
 - Productionizing AI pipelines  
 
 ---
@@ -131,8 +128,7 @@ When I'm not coding, I'm usually powered by **coffee ☕ or matcha 🍵**, reorg
 </p>
 
 ---
-<h2> ## Github Stats </h2>
-<br />
+## Github Stats
 
 <div align=center>
   <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Shriya613&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
@@ -140,27 +136,22 @@ When I'm not coding, I'm usually powered by **coffee ☕ or matcha 🍵**, reorg
 <br/>
 <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Shriya613&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
----
-## 🌿 How I Like Building AI Systems
-
-I care about building systems that are:
-
-• Honest about failure modes  
-• Thoughtful about evaluation  
-• Designed for real users  
-• Scalable beyond prototypes  
+</br>
 
 ---
 
 ## ✨ Tiny Fun Facts
 
-• I debug better with matcha  
-• I reorganize experiments more than necessary  
-• I name temporary branches irresponsibly  
-• I laugh at inappropriate times (still true)
+• I debug better with matcha (sike)
+• I name temporary branches irresponsibly
+• I do random happy dances
+• I laugh at inappropriate times
 
 ---
+<p align="center">
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="180"/>
+</p>
 
 <p align="center">
-  built with curiosity, caffeine, and occasional existential debugging ☕🍵
+  ☕ Powered by curiosity, croissants, and constant error handling 🍵
 </p>
