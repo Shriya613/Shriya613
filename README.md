@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I'm Shriya 👋</h1>
-<h3 align="center">Machine Learning Engineer • Agentic AI • NLP Systems</h3>
+<h3 align="center">AI Engineer • NLP Enthusiast</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="180"/>
@@ -9,7 +9,7 @@
 
 ## ☕ About Me
 
-I'm a Machine Learning Engineer passionate about building AI systems that go beyond research prototypes and actually work in production.
+I'm an AI Engineer passionate about building systems that go beyond research prototypes and actually work in production.
 
 My work lives at the intersection of:
 
@@ -24,6 +24,10 @@ I enjoy translating complex research ideas into clean, scalable, and user-friend
 When I'm not coding, I'm usually powered by **coffee ☕ or matcha 🍵**, reorganizing experiments, or debugging something that worked five minutes ago.
 
 📬 Reach me: **shriyasravani07@gmail.com**
+            **+1 (408) 413 6948**
+            **+91 9920756140**
+
+
 
 ---
 
