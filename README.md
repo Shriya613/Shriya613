@@ -6,7 +6,7 @@
 
 ## ☕ About Me
 
-I'm an AI Engineer passionate about building systems that go beyond research prototypes and actually work in production.
+I'm passionate about building systems that go beyond research prototypes and actually work in production.
 
 I care about building systems that are:
 
