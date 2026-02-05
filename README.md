@@ -24,8 +24,7 @@ I enjoy translating complex research ideas into clean, scalable, and user-friend
 When I'm not coding, I'm usually powered by **coffee ☕ or matcha 🍵**, reorganizing experiments, or debugging something that worked five minutes ago.
 
 📬 Reach me: **shriyasravani07@gmail.com**
-            **+1 (408) 413 6948**
-            **+91 9920756140**
+<br> Call me: **+1 (408) 413 6948**, **+91 9920756140** </br>
 
 
 
