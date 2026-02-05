@@ -1,5 +1,6 @@
 <h1 align="center">Hey, I'm Shriya Sravani 👋</h1>
-<h3 align="center">AI Engineer • NLP Enthusiast</h3>
+<h3 align="center">AI/ML Engineer • NLP & LLM Systems </h3>
+<h4 align="center"> MS Natural Language Processing, UC Santa Cruz</h4>
 
 ---
 
