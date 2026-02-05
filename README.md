@@ -1,23 +1,154 @@
-<h1 align="center">Hey there, I'm Shriya!👋</h1>
-<h3 align="center">A MS grad in AI from UC Santa Cruz, Silicon Valley </h3>
+<h1 align="center">Hey, I'm Shriya 👋</h1>
+<h3 align="center">Machine Learning Engineer • Agentic AI • NLP Systems</h3>
 
-# 💫 About Me:
-🔭 I’m currently working on Agentic AI systems. <br>👯 I’m looking to collaborate on leveraging these systems for healthcare and education.<br>⚡ Fun fact : I laugh at inappropriate times!<br>✉️ Reach me at : shriyasravani07@gmail.com
+<p align="center">
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="180"/>
+</p>
 
+---
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shriya-sravani) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shriyasravani07@gmail.com) 
+## ☕ About Me
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-<!-- # 📊 GitHub Stats:
+I'm a Machine Learning Engineer passionate about building AI systems that go beyond research prototypes and actually work in production.
 
- <img align="left" src="https://github-readme-stats.vercel.app/api?username=Shriya613&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Shriya's Github Stats" width="60%">
-  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shriya613&show_icons=true&hide_border=true&theme=radical" width="37%" alt="Shriya's Top Languages">
- 
-![](https://github-readme-stats.vercel.app/api?username=Shriya613&theme=catppuccin_mocha&hide_border=false&include_all_commits=false&count_private=false) <br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Shriya613&theme=catppuccin_mocha&hide_border=false) <br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shriya613&theme=catppuccin_mocha&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
--->
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+My work lives at the intersection of:
+
+• Agentic AI systems  
+• Multilingual LLM pipelines  
+• AI evaluation & alignment  
+• Reinforcement learning simulations  
+• Cloud-based ML infrastructure  
+
+I enjoy translating complex research ideas into clean, scalable, and user-friendly systems.
+
+When I'm not coding, I'm usually powered by **coffee ☕ or matcha 🍵**, reorganizing experiments, or debugging something that worked five minutes ago.
+
+📬 Reach me: **shriyasravani07@gmail.com**
+
+---
+
+## 🚀 Current Interests
+
+- Multi-agent reasoning and orchestration  
+- LLM evaluation and reliability  
+- Building multilingual AI systems  
+- RL-based simulation environments  
+- Productionizing AI pipelines  
+
+---
+
+## 🌐 Connect With Me
+
+<p>
+  <a href="https://linkedin.com/in/shriya-sravani">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:shriyasravani07@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 🧠 Tech Stack
+
+### 👩‍💻 Programming
+<p>
+<img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+</p>
+
+---
+
+### 🤖 Machine Learning & Deep Learning
+<p>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/XGBoost-AA4A44?style=for-the-badge"/>
+</p>
+
+---
+
+### 🧾 NLP & LLM Systems
+<p>
+<img src="https://img.shields.io/badge/BERT-FF6F61?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/XLM--RoBERTa-7B68EE?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NLLB--200-009688?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Flair-FFB300?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-6A5ACD?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Prompt%20Engineering-795548?style=for-the-badge"/>
+</p>
+
+---
+
+### 🎯 AI Evaluation & Alignment
+<p>
+<img src="https://img.shields.io/badge/LLM%20as%20Judge-673AB7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Model%20Benchmarking-3F51B5?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Structured%20Reasoning-607D8B?style=for-the-badge"/>
+</p>
+
+---
+
+### 🚗 Reinforcement Learning
+<p>
+<img src="https://img.shields.io/badge/PPO-FF9800?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/A2C-9C27B0?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DQN-4CAF50?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OpenAI%20Gym-0081CB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CARLA-Simulator-607D8B?style=for-the-badge"/>
+</p>
+
+---
+
+### ☁️ Cloud & Infrastructure
+<p>
+<img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
+</p>
+
+---
+
+### 🗄️ Databases & Vector Search
+<p>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FAISS-00BCD4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge"/>
+</p>
+
+---
+
+## 🌿 How I Like Building AI Systems
+
+I care about building systems that are:
+
+• Honest about failure modes  
+• Thoughtful about evaluation  
+• Designed for real users  
+• Scalable beyond prototypes  
+
+---
+
+## ✨ Tiny Fun Facts
+
+• I debug better with matcha  
+• I reorganize experiments more than necessary  
+• I name temporary branches irresponsibly  
+• I laugh at inappropriate times (still true)
+
+---
+
+<p align="center">
+  built with curiosity, caffeine, and occasional existential debugging ☕🍵
+</p>
