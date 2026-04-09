@@ -23,7 +23,7 @@ Currently I'm working on:
 
 I enjoy translating complex research ideas into clean, scalable, and user-friendly systems.
 
-When I'm not debugging something that was working 2 minutes ago, I'm learning a new dance choreo, catching up with the latest series or out touching grass.
+When I'm not debugging, I'm learning a new dance choreo, catching up with the latest series or out touching grass.
 
 📬 Reach me: **shriyasravani07@gmail.com**
 <br> Call me: **+1 (408) 413 6948**, **+91 9920756140** </br>
