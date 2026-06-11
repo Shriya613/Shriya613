@@ -26,8 +26,8 @@ I enjoy translating complex research ideas into clean, scalable, and user-friend
 
 When I'm not debugging, I'm learning a new dance choreo, catching up with the latest series or out touching grass.
 
-📬 Reach me: **shriyasravani07@gmail.com**
-<br> Call me: **+1 (408) 413 6948**, **+91 9920756140** </br>
+📬 Reach me: **shriyasravani8@gmail.com**
+<br> Call me: **+91 9920756140** </br>
 
 ---
 
