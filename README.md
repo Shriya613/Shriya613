@@ -34,7 +34,7 @@ Linkedin : **https://linkedin.com/in/shriya-sravani**
 ---
 ### Languages & Core
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=py,java,cpp,c,linux, mysql" />
+  <img src="https://skillicons.dev/icons?i=py,java,cpp,c,mysql" />
 </a>
 
 ### ML & Deep Learning
