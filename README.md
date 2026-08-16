@@ -11,24 +11,17 @@ I'm passionate about building systems that go beyond research prototypes and act
 
 I care about building systems that are:
 
-• Honest about failure modes  
-• Thoughtful about evaluation  
-• Designed for real users  
+• Thoughtful about evaluation
 • Scalable beyond prototypes
+• Curated for real users  
 
-Currently I'm working on:
-
-• Agentic AI systems  
-• AI evaluation & alignment  
-• bringing my project ideas to life (published!)  
-
-I enjoy translating complex research ideas into clean, scalable, and user-friendly systems.
-
+Currently I'm working on Agentic AI systems, evaluation & alignment, bringing my project ideas to life (published!)
 When I'm not debugging, I'm learning a new language, catching up with the latest series or out on a run.
 
-📬 Reach me: **shriyasravani03@gmail.com**
-<br> Call me: **+91 9920756140** </br>
-
+🌐 Connect With Me
+Mail: **shriyasravani03@gmail.com**
+<br> Call me: **+919920756140** </br>
+Linkedin: **https://linkedin.com/in/shriya-sravani**
 ---
 
 ## 🚀 Current Interests
@@ -44,9 +37,6 @@ When I'm not debugging, I'm learning a new language, catching up with the latest
 <p>
   <a href="https://linkedin.com/in/shriya-sravani">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:shriyasravani03@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
