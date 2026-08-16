@@ -34,12 +34,12 @@ Linkedin : **https://linkedin.com/in/shriya-sravani**
 ---
 ### Languages & Core
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=py,java,cpp,cs,bash,mysql" />
+  <img src="https://skillicons.dev/icons?i=py,java,cpp,c,linux, mysql" />
 </a>
 
 ### ML & Deep Learning
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,anaconda" />
 </a>
 
 ### Cloud & Infrastructure
@@ -49,34 +49,12 @@ Linkedin : **https://linkedin.com/in/shriya-sravani**
 
 ### Tools & Platforms
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,github,fastapi,sqlite,linux,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,fastapi,sqlite,postgres,linux,vscode" />
 </a>
 
------
-
-### 👩‍💻 Programming
+### 🤖 ML Tech
 <p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="SQL"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="Bash"/>
-</p>
-
----
-
-### 🤖 Machine Learning & Deep Learning
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="PyTorch"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="TensorFlow"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="40" alt="scikit-learn"/>
 <img src="https://img.shields.io/badge/-XGBoost-AA4A44?style=flat-square&logoColor=white" height="40" alt="XGBoost"/>
-</p>
-
----
-
-### 🧾 NLP & LLM Systems
-<p>
 <img src="https://img.shields.io/badge/-BERT-FF6F61?style=flat-square&logoColor=white" height="40" alt="BERT"/>
 <img src="https://img.shields.io/badge/-XLM--RoBERTa-7B68EE?style=flat-square&logoColor=white" height="40" alt="XLM-RoBERTa"/>
 <img src="https://img.shields.io/badge/-NLLB--200-009688?style=flat-square&logoColor=white" height="40" alt="NLLB-200"/>
@@ -84,49 +62,14 @@ Linkedin : **https://linkedin.com/in/shriya-sravani**
 <img src="https://img.shields.io/badge/-Flair-FFB300?style=flat-square&logoColor=white" height="40" alt="Flair"/>
 <img src="https://img.shields.io/badge/-RAG-6A5ACD?style=flat-square&logoColor=white" height="40" alt="RAG"/>
 <img src="https://img.shields.io/badge/-Prompt%20Engineering-795548?style=flat-square&logoColor=white" height="40" alt="Prompt Engineering"/>
-</p>
-
----
-
-### 🎯 AI Evaluation & Alignment
-<p>
 <img src="https://img.shields.io/badge/-LLM%20as%20Judge-673AB7?style=flat-square&logoColor=white" height="40" alt="LLM as Judge"/>
 <img src="https://img.shields.io/badge/-Model%20Benchmarking-3F51B5?style=flat-square&logoColor=white" height="40" alt="Model Benchmarking"/>
 <img src="https://img.shields.io/badge/-Structured%20Reasoning-607D8B?style=flat-square&logoColor=white" height="40" alt="Structured Reasoning"/>
-</p>
-
----
-
-### 🚗 Reinforcement Learning
-<p>
 <img src="https://img.shields.io/badge/-PPO-FF9800?style=flat-square&logoColor=white" height="40" alt="PPO"/>
 <img src="https://img.shields.io/badge/-A2C-9C27B0?style=flat-square&logoColor=white" height="40" alt="A2C"/>
 <img src="https://img.shields.io/badge/-DQN-4CAF50?style=flat-square&logoColor=white" height="40" alt="DQN"/>
 <img src="https://img.shields.io/badge/-OpenAI%20Gym-0081CB?style=flat-square&logoColor=white" height="40" alt="OpenAI Gym"/>
 <img src="https://img.shields.io/badge/-CARLA-607D8B?style=flat-square&logoColor=white" height="40" alt="CARLA Simulator"/>
-</p>
-
----
-
-### ☁️ Cloud & Infrastructure
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="GCP"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="AWS"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="Azure"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="Kubernetes"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" height="40" alt="GitHub Actions"/>
-</p>
-
----
-
-### 🗄️ Databases & Vector Search
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="SQLite"/>
-<img src="https://img.shields.io/badge/-FAISS-00BCD4?style=flat-square&logoColor=white" height="40" alt="FAISS"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="Pandas"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="NumPy"/>
 </p>
 
 ---
