@@ -32,12 +32,13 @@ Linkedin : **https://linkedin.com/in/shriya-sravani**
 - LLM evaluation and reliability  
 - Productionizing AI pipelines
 ---
-### Languages & Core
+
+### Languages
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=py,java,cpp,c,mysql" />
 </a>
 
-### ML & Deep Learning
+### Machine Learning
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,anaconda" />
 </a>
@@ -52,22 +53,21 @@ Linkedin : **https://linkedin.com/in/shriya-sravani**
   <img src="https://skillicons.dev/icons?i=git,github,fastapi,sqlite,postgres,linux,vscode" />
 </a>
 
-### 🤖 ML Tech
+### 🤖 AI
 <p>
 <img src="https://img.shields.io/badge/-XGBoost-AA4A44?style=flat-square&logoColor=white" height="40" alt="XGBoost"/>
 <img src="https://img.shields.io/badge/-BERT-FF6F61?style=flat-square&logoColor=white" height="40" alt="BERT"/>
-<img src="https://img.shields.io/badge/-XLM--RoBERTa-7B68EE?style=flat-square&logoColor=white" height="40" alt="XLM-RoBERTa"/>
 <img src="https://img.shields.io/badge/-NLLB--200-009688?style=flat-square&logoColor=white" height="40" alt="NLLB-200"/>
 <img src="https://img.shields.io/badge/-spaCy-09A3D5?style=flat-square&logoColor=white" height="40" alt="spaCy"/>
-<img src="https://img.shields.io/badge/-Flair-FFB300?style=flat-square&logoColor=white" height="40" alt="Flair"/>
+<img src="https://img.shields.io/badge/-MLalgorithms-FFB300?style=flat-square&logoColor=white" height="40" alt="ML algorithms"/>
+  <img src="https://img.shields.io/badge/-LangChain-FFB300?style=flat-square&logoColor=white" height="40" alt="LangChain"/>
 <img src="https://img.shields.io/badge/-RAG-6A5ACD?style=flat-square&logoColor=white" height="40" alt="RAG"/>
 <img src="https://img.shields.io/badge/-Prompt%20Engineering-795548?style=flat-square&logoColor=white" height="40" alt="Prompt Engineering"/>
-<img src="https://img.shields.io/badge/-LLM%20as%20Judge-673AB7?style=flat-square&logoColor=white" height="40" alt="LLM as Judge"/>
+<img src="https://img.shields.io/badge/-LLM%20as%20Judge-673AB7?style=flat-square&logoColor=white" height="40" alt="LLM Eval"/>
 <img src="https://img.shields.io/badge/-Model%20Benchmarking-3F51B5?style=flat-square&logoColor=white" height="40" alt="Model Benchmarking"/>
 <img src="https://img.shields.io/badge/-Structured%20Reasoning-607D8B?style=flat-square&logoColor=white" height="40" alt="Structured Reasoning"/>
 <img src="https://img.shields.io/badge/-PPO-FF9800?style=flat-square&logoColor=white" height="40" alt="PPO"/>
 <img src="https://img.shields.io/badge/-A2C-9C27B0?style=flat-square&logoColor=white" height="40" alt="A2C"/>
-<img src="https://img.shields.io/badge/-DQN-4CAF50?style=flat-square&logoColor=white" height="40" alt="DQN"/>
 <img src="https://img.shields.io/badge/-OpenAI%20Gym-0081CB?style=flat-square&logoColor=white" height="40" alt="OpenAI Gym"/>
 <img src="https://img.shields.io/badge/-CARLA-607D8B?style=flat-square&logoColor=white" height="40" alt="CARLA Simulator"/>
 </p>
