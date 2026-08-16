@@ -19,7 +19,9 @@ Currently I'm working on Agentic AI systems, evaluation & alignment, bringing my
 When I'm not debugging, I'm learning a new language, catching up with the latest series or out on a run.
 
 Connect with me:
+
 Mail : **shriyasravani03@gmail.com**
+
 Linkedin : **https://linkedin.com/in/shriya-sravani**
 
 ---
