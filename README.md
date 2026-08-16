@@ -1,11 +1,11 @@
 <h1 align="center">Hey, I'm Shriya Sravani 👋</h1>
-<h3 align="center">AI/ML Engineer • Agents & LLM Systems </h3>
-<h4 align="center"> MS Natural Language Processing, UC Santa Cruz</h4>
-<h4 align="center"> Seeking Fall 2026 Internship/Co-op and Full-Time Opportunities </h4>
+<h3 align="center">AI/ML Engineer • Multimodal AI, LLM and Agentic Systems </h3>
+<h4 align="center"> MS AI (Natural Language Processing), UC Santa Cruz</h4>
+<h4 align="center"> Seeking 2026 Internship and Full-Time Opportunities </h4>
 
 ----
 
-## ☕ About Me
+## ☕️ About Me
 
 I'm passionate about building systems that go beyond research prototypes and actually work in production.
 
@@ -20,13 +20,13 @@ Currently I'm working on:
 
 • Agentic AI systems  
 • AI evaluation & alignment  
-• bringing my project ideas to life (stay tuned!)  
+• bringing my project ideas to life (published!)  
 
 I enjoy translating complex research ideas into clean, scalable, and user-friendly systems.
 
-When I'm not debugging, I'm learning a new dance choreo, catching up with the latest series or out touching grass.
+When I'm not debugging, I'm learning a new language, catching up with the latest series or out on a run.
 
-📬 Reach me: **shriyasravani8@gmail.com**
+📬 Reach me: **shriyasravani03@gmail.com**
 <br> Call me: **+91 9920756140** </br>
 
 ---
@@ -45,7 +45,7 @@ When I'm not debugging, I'm learning a new dance choreo, catching up with the la
   <a href="https://linkedin.com/in/shriya-sravani">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:shriyasravani07@gmail.com">
+  <a href="mailto:shriyasravani03@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
@@ -140,9 +140,8 @@ When I'm not debugging, I'm learning a new dance choreo, catching up with the la
 
 ---
 
-## ✨ Tiny Fun Facts
+## ✨ Tiny Fun Facts ☕️
 
-• I debug better with matcha (sike)
 • I name temporary branches irresponsibly
 • I do random happy dances
 • I laugh at inappropriate times
@@ -153,5 +152,5 @@ When I'm not debugging, I'm learning a new dance choreo, catching up with the la
 </p>
 
 <p align="center">
-  ☕ Powered by curiosity, croissants, and constant error handling 🍵
+  ☕️ Powered by curiosity, maggi, and last minute plans
 </p>
