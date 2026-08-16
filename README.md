@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Shriya Sravani 👋</h1>
+<h1 align="center">Hey, I'm Shriya 👋</h1>
 <h3 align="center">AI/ML Engineer • Multimodal AI, LLM and Agentic Systems </h3>
 <h4 align="center"> MS AI (Natural Language Processing), UC Santa Cruz</h4>
 <h4 align="center"> Seeking 2026 Internship and Full-Time Opportunities </h4>
