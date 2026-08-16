@@ -18,10 +18,10 @@ I care about building systems that are:
 Currently I'm working on Agentic AI systems, evaluation & alignment, bringing my project ideas to life (published!)
 When I'm not debugging, I'm learning a new language, catching up with the latest series or out on a run.
 
-🌐 Connect With Me
-<br> Mail: **shriyasravani03@gmail.com** <br>
-<br> Call me: **+919920756140** </br>
-<br> Linkedin: **https://linkedin.com/in/shriya-sravani** </br>
+Connect with me:
+Mail : **shriyasravani03@gmail.com**
+Linkedin : **https://linkedin.com/in/shriya-sravani**
+
 ---
 
 ## 🚀 Current Interests
