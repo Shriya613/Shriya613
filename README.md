@@ -32,6 +32,27 @@ Linkedin : **https://linkedin.com/in/shriya-sravani**
 - LLM evaluation and reliability  
 - Productionizing AI pipelines
 ---
+### Languages & Core
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=py,java,cpp,cs,bash,mysql" />
+</a>
+
+### ML & Deep Learning
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+</a>
+
+### Cloud & Infrastructure
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,githubactions" />
+</a>
+
+### Tools & Platforms
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=git,github,fastapi,sqlite,linux,vscode" />
+</a>
+
+-----
 
 ### 👩‍💻 Programming
 <p>
