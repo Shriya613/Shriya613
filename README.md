@@ -19,27 +19,16 @@ Currently I'm working on Agentic AI systems, evaluation & alignment, bringing my
 When I'm not debugging, I'm learning a new language, catching up with the latest series or out on a run.
 
 🌐 Connect With Me
-Mail: **shriyasravani03@gmail.com**
+<br> Mail: **shriyasravani03@gmail.com** <br>
 <br> Call me: **+919920756140** </br>
-Linkedin: **https://linkedin.com/in/shriya-sravani**
+<br> Linkedin: **https://linkedin.com/in/shriya-sravani** </br>
 ---
 
 ## 🚀 Current Interests
 
 - Multi-agent reasoning and orchestration  
 - LLM evaluation and reliability  
-- Productionizing AI pipelines  
-
----
-
-## 🌐 Connect With Me
-
-<p>
-  <a href="https://linkedin.com/in/shriya-sravani">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
-
+- Productionizing AI pipelines
 ---
 
 ### 👩‍💻 Programming
